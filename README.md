@@ -1,6 +1,6 @@
 # Program Kampus Merdeka Hacktiv8
 ## Intro to Python for Data Science
-### PYTHON-KS10 STUDI INDEPENDEN
+### Data Diri
 
 - Nama         : Syaima Radestya
 - Kode Peserta : PYTN-KS10-011
