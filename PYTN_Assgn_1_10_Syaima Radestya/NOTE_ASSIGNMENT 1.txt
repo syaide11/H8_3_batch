@@ -1,2 +1,1 @@
-untuk dataset london_crime_by_lsoa.csv tidak saya upload ke github karena ukuran dataset yang sangat besar,
-dan github juga mempunyai limit untuk upload file. Sebagai gantinya, saya upload data berupa file rar di google classroom
+untuk dataset london_crime_by_lsoa.csv tidak saya upload ke github karena ukuran dataset yang sangat besar, dan github juga mempunyai limit untuk upload file. Sebagai gantinya, saya upload data berupa file rar di google classroom
