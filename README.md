@@ -5,7 +5,7 @@
 - Nama         : Syaima Radestya
 - Kode Peserta : PYTN-KS10-011
 - Program      : Introduction to Python for Data Science
-- Bacth        : 10
+- Batch        : 10
 
 ### Account
 - email: <syaimards@gmail.com>
